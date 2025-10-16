@@ -1,0 +1,31 @@
+h1{
+    color:gold;
+}
+body{
+    background-color:brown;
+}
+.hello{
+    float:left;
+    margin-top:0px;
+    margin-right:50px;
+    margin-bottom: 50px;
+    float:left;
+width:150px;
+    
+}
+.mug{
+    font-size: 5rex;
+    color:aqua;
+    
+}
+div > p  {
+    color:green;
+    font-size:4rex;
+}
+.hi{
+    width:150px;
+}
+.he {
+text-align: center;
+color: blue;
+}
